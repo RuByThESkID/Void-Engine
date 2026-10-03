@@ -1,0 +1,10 @@
+{
+  "name": "Void_Engine",
+  "version_number": "1.0.4",
+  "website_url": "https://github.com/RuByThESkID/Void-Engine",
+  "description": "BONELAB physics and quality-of-life overhaul with adaptive presets, finger anti-clip, slow-motion Deadeye, ammo display, search tools, and developer utilities.",
+  "dependencies": [
+    "bonelib-BoneLib-3.2.2",
+    "LavaGang-MelonLoader-0.7.3"
+  ]
+}
